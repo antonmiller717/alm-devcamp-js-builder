@@ -1,5 +1,5 @@
 {
-  "name": "jsfooter",
+  "name": "alm-jsfooter",
   "version": "0.1.0",
   "description": "this module allows for a dynamic footer to be generated",
   "main": "index.js",
